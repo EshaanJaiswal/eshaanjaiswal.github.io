@@ -8,7 +8,7 @@ rss_icon: false # comment this line to hide the RSS icon
 linkedin_username: eshaanjaiswal
 x_username: _EshaanJaiswal_
 github_username: EshaanJaiswal
-#scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: yhiNqGUAAAAJ&hl # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 whatsapp_number: +918855092897 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin

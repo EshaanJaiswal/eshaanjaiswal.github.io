@@ -4,7 +4,6 @@
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: eshaan.jaiswal@iitgn.ac.in # your email address
 #inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: false # comment this line to hide the RSS icon
 linkedin_username: eshaanjaiswal
 x_username: _EshaanJaiswal_
 github_username: EshaanJaiswal

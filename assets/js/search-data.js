@@ -521,13 +521,6 @@ ninja.data = [{
           window.open("mailto:%65%73%68%61%61%6E.%6A%61%69%73%77%61%6C@%69%69%74%67%6E.%61%63.%69%6E", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("//feed.xml", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',

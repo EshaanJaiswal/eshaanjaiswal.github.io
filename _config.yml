@@ -7,8 +7,8 @@ first_name: Eshaan
 middle_name: A.
 last_name: Jaiswal
 contact_note: >
- The best way to reach me is via email or LinkedIn.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  The best way to reach me is via email or LinkedIn.
+description: > 
   Eshaan Jaiswal is Computer Science Undergrad at IIT Gandhinagar.
 footer_text: >
   #Violets are blue, my syntax is neat, watch me debug, then hit delete.

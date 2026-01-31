@@ -377,14 +377,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-got-an-opportunity-to-go-to-the-inter-iit-cultural-meet-8-0-held-at-iit-kanpur-for-street-photography",
+            },},{id: "news-got-an-opportunity-to-go-to-the-inter-iit-tech-meet-14-0-held-at-iit-patna-for-arista-netoworks-rrm-problem-statment",
+          title: 'Got an Opportunity to go to the Inter-IIT Tech Meet 14.0 held at...',
+          description: "",
+          section: "News",},{id: "news-got-an-opportunity-to-go-to-the-inter-iit-cultural-meet-8-0-held-at-iit-kanpur-for-street-photography",
           title: 'Got an Opportunity to go to the Inter-IIT Cultural Meet 8.0 held at...',
           description: "",
           section: "News",},{id: "news-happy-to-announce-that-i-will-be-taking-a-project-course-under-prof-shanmuganathan-raman-for-this-semester",
           title: 'Happy to announce that I will be taking a project course under Prof....',
-          description: "",
-          section: "News",},{id: "news-got-an-opportunity-to-go-to-the-inter-iit-tech-meet-14-0-held-at-iit-patna-for-arista-netoworks-rrm-problem-statment",
-          title: 'Got an Opportunity to go to the Inter-IIT Tech Meet 14.0 held at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

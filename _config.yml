@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Eshaan Jaiswal's Website # the website title (if blank, full name will be used instead)
 first_name: Eshaan
 middle_name:
 last_name: Jaiswal
 contact_note: >
   The best way to reach me is via email or LinkedIn.
 description: > 
-  Eshaan Jaiswal is Computer Science Undergrad at IIT Gandhinagar.
+  Eshaan Jaiswal is a Computer Science Undergrad at IIT Gandhinagar. Mainly Research Oriented around Machine Learning, Computer Vision and Deep Learning, Along with Computer Architecture, Systems and Algorithmic Research.
 footer_text: >
-  Open to new opportunities and collaborations
-keywords: Eshaan, Jaiswal, Eshaan Jaiswal, IIT, IIT Gandhinagar, Gandhinagar, Indian Institute of Technology Gandhinagar, IITGN, Eshaan Ashish Jaiswal # add your own keywords or leave empty
+  Open to new opportunities and collaborations.
+keywords: Eshaan, Jaiswal, Eshaan Jaiswal, IIT, IIT Gandhinagar, Gandhinagar, Indian Institute of Technology Gandhinagar, IITGN, Eshaan Ashish Jaiswal, Machine Learning, Computer Vision, Academia, Research, India  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌌 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -68,8 +68,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -84,7 +84,7 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: us4nKK7TNlAiUWrounSsF0sMWOXE2SyYTNYB127jL9E # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------

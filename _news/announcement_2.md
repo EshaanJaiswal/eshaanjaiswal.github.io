@@ -7,5 +7,3 @@ related_posts: false
 ---
 
 Got an Opportunity to go to the Inter-IIT Cultural Meet 8.0 held at IIT Kanpur for Street Photography.
-
----

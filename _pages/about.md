@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm **Eshaan**, a **Computer Science and Engineering** student at [**IIT Gandhinagar**](https://www.iitgn.ac.in/) (Class of 2028). I'm driven to translate complex theory into robust, functional code. My current technical focus is on exploring **AI/ML/DL**, **Computer Vision and Deep Learning**, **Algorithmic Research**, **Game Theory**, and **Competitive Coding**. I view engineering as a dynamic platform for continuous learning and innovation.
+Hello! I'm **Eshaan**, a **Computer Science and Engineering** student at [**IIT Gandhinagar**](https://www.iitgn.ac.in/) (Class of 2028). I'm driven to translate complex theory into robust, functional code. My current technical focus is on exploring **AI/ML**, **Computer Vision and Deep Learning**, **Algorithmic Research**, **Game Theory**, and **Competitive Coding**. I view engineering as a dynamic platform for continuous learning and innovation.
 
 ---
 

@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>K-430, Kyzeel Hostel</p>
-    <p>IIT Gandhinagar</p>
-    <p>Gandhinagar, Gujarat - 382355</p>
+    <p>Vidhana Soudha</p>
+    <p>Bengaluru</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
